@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **various projects**
 
-- 🤝 I’m looking for help with **people of my type**
+- 🤝 I’m looking for help from **people of my type**
 
 - 📫 How to reach me **amisha.kr29@gmail.com**
 
