@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I am currently working on Frontend skills<br> 👯I'm looking to collaborate on various projects<br> 🤝I'm looking for help with people of my type<br> 🌱I'm currently learning React and focusing of Data Structure<br> 💬You can reach me out on Amisha.kr29@gmail.com <br> ⚡Fun fact:  Collab together and you will get to know ;) 
-Portfolio: https://amisha-arunjay-kumar.vercel.app/
+🔭 I am currently working on Frontend skills<br> 👯I'm looking to collaborate on various projects<br> 🤝I'm looking for help with people of my type<br> 🌱I'm currently learning React and focusing of Data Structure<br> 💬You can reach me out on Amisha.kr29@gmail.com <br> ⚡Fun fact:  Collab together and you will get to know ;)
+# Portfolio: https://amisha-arunjay-kumar.vercel.app/
 
 
 ## 🌐 Socials:
